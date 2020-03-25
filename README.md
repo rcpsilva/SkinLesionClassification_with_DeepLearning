@@ -1,6 +1,6 @@
-#Deep learning for the skin lesion classification problem
+# Deep learning for the skin lesion classification problem
 
-This is my current attempt to learn PyTorch.
+This is my current attempt to study deep learning in PyTorch.
 
 In order to do this I have chosen the skin lesion classification problem. The dataset used here is the training set avaiable at https://challenge.kitware.com/#challenge/560d7856cad3a57cfde481ba (Parte 3: Lesion Classification).
 
